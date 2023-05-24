@@ -5,6 +5,7 @@ body {
 .container {
   width: 1000px;
   margin: 0 auto;
+  font-size:10px;
 }
 
 header {
