@@ -16,12 +16,9 @@
 				<!-- Header -->
 					<header id="header">
 						<h1>yamk</h1>
-						<p>penetration test&nbsp;&bull;&nbsp; JAVA &nbsp;&bull;&nbsp; anything other</p>
+						<p>Penetration test&nbsp;&bull;&nbsp; JAVA &nbsp;&bull;&nbsp; Anything other</p>
 						<nav>
 							<ul>
-								<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
-								<li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
-								<li><a href="#" class="icon brands fa-dribbble"><span class="label">Dribbble</span></a></li>
 								<li><a href="#" class="icon brands fa-github"><span class="label">Github</span></a></li>
 								<li><a href="#" class="icon solid fa-envelope"><span class="label">Email</span></a></li>
 							</ul>
