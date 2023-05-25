@@ -21,7 +21,7 @@
 							<ul>
 								<li><a href="#" class="icon brands fa-github"><span class="label">Github</span></a></li>
 								<li><a href="#" class="icon solid fa-envelope"><span class="label">Email</span></a></li>
-								<li><a href="2/index.html" class="icon fa-home"><span class="label">进入主页</span></a></li>
+								<li><a href="2/index.html" class="icon brands fa-home"><span class="label">进入主页</span></a></li>
 							</ul>
 						</nav>
 					</header>
